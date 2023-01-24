@@ -5,7 +5,7 @@ const Footer = () => {
         
         <div className="text-gray-500 text-sm">
           © {new Date().getFullYear()}{' '}
-          <a href="https://github.com/DerickDu/Portfolio_new.git" className="hover:text-pink-600">
+          <a href="https://github.com/DerickDu/Portfolio_new" className="hover:text-pink-600">
             DerickDu
           </a>
         </div>
